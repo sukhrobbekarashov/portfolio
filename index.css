@@ -1,0 +1,311 @@
+*,body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 800px;
+    margin: auto;
+}
+.header_top {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+}
+a {
+    text-decoration: none;
+}
+.services,.works,.blog {
+    color: black;
+}
+.header_logo {
+    margin-right: 250px;
+}
+.services,.works,.blog,.hireme {
+    margin-left: 60px;
+}
+.hireme {
+    padding: 12px 32px;
+    background: #ffffff;
+    border: 1px solid #3730A3;
+    border-radius: 6px;
+    color: #3730A3;
+}
+.header_bottom {
+    margin-top: 100px;
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: center;
+    position: relative;
+}
+.header_bottom_img {
+    position: relative;
+    margin-right: 220px;
+}
+.header_bottom_img img {
+    position: absolute;
+    width: 250px;
+    height: 300px;
+}
+hr {
+    width: 570px;
+}
+.name {
+    color: #3730A3;
+    margin-bottom: 20px;
+}
+.bio {
+    font-weight: 300;
+    font-size: 69px;
+    line-height: 69px;
+    color: #1F2937;
+    margin-bottom: 20px;
+}
+.text {
+    font-weight: 150;
+    font-size: 15px;
+    line-height: 20px;
+    color: #6B7280;
+}
+.botton {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.hireme2 {
+    background: #3730A3;
+    border-radius: 6px;
+    padding: 12px 32px;
+    color: #fff;
+    margin-right: 20px;
+}
+.more {
+    background: #FFFFFF;
+    padding: 12px 32px;
+    border: 1px solid #3730A3;
+    border-radius: 6px;
+}
+.minetext {
+    color: #6B7280;
+    margin-top: 16px;
+}
+.project {
+    margin: auto;
+    font-weight: 470;
+    font-size: 42px;
+    line-height: 40px;
+    color: #1F2937;
+    margin-left: 20px;
+    margin-bottom: 150px;
+}
+.friendimg {
+    position: relative;
+}
+.friendimg img {
+    position: absolute;
+    width: 300px;
+    height: 450px;
+}
+.part1 {
+    margin-left: 320px;
+}
+.web {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1F2937;
+    margin-bottom: 20px;
+}
+.provade {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #6B7280;
+    width: 250px;
+    margin-bottom: 20px;
+}
+.link1 {
+    display: flex;
+}
+.see {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #3730A3;
+    margin-right: 5px;
+}
+.category {
+    display: flex;
+    position: relative;
+}
+.heading3 {
+    position: absolute;
+    margin-left: 280px;
+}
+.komp {
+    margin-top: 150px;
+    background: #FEF2F2;
+}
+.group {
+    display: flex;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.alphabet {
+    margin-left: 30px;
+}
+.trusted {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #9CA3AF;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.great {
+    margin-top: 100px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 48px;
+    color: #1F2937;
+    margin-bottom: 100px;
+}
+.img_car {
+    position: relative;
+    
+}
+.img_car img {
+    position: absolute;
+    width: 400px;
+}
+.img_city {
+    position: relative;
+    
+}
+.img_city img {
+    position: absolute;
+    width: 400px;
+    margin-top: 320px;
+}
+.img_room {
+    position: relative;
+} 
+.img_room img {
+    position: absolute;
+    width: 380px;
+    height: 580px;
+    margin-left: 420px;
+}
+.img_part2 {
+    position: relative;
+}
+.img_link {
+    background: #fff;
+    position: absolute;
+    margin-left: 500px;
+    padding-top: 30px;
+    margin-top: 480px;
+    display: flex;
+}
+.img_project {
+    padding-left: 30px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #1F2937;
+}
+.photo {
+    padding-left: 30px;
+    margin-bottom: 5px;
+    font-weight: 500;
+    line-height: 20px;
+    font-size: 14px;
+    color: #9CA3AF;
+}
+.vector {
+    margin-left: 100px;
+}
+.img_great {
+    margin-top: 700px;
+    position: relative;
+}
+.img_great img {
+    width: 800px;
+}
+.finance_part {
+    width: 230px;
+    margin-left: 50px;
+    
+}
+.finance_img {
+    margin-left: 30px;
+}
+.businnes {
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;
+    color: #374151;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.finance {
+    margin-top: 100px;
+    display: flex;
+}
+.carer {
+    text-align: center;
+    font-weight: 600;
+    line-height: 48px;
+    font-size: 48px;
+    color: #1F2937;
+    margin-top: 100px;
+}
+.carers {
+    margin-top: 80px;
+    display: flex;
+}
+.company,.massa,.posi,.junior,.yea,.numb {
+margin-top: 80px;
+}
+.kompany,.pozition,.year {
+    margin-left: 100px;
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
+    color: #6B7280;
+}
+.massa b {
+    color: black;
+}
+.contact {
+    margin-top: 100px;
+    background: #FEF2F2
+}
+.with {
+    font-weight: 500;
+    line-height: 48px;
+    font-size: 48px;
+    color: #374151;
+    text-align: center;
+    padding-top: 80px;
+}
+.not {
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 18px;
+    color: #9CA3AF;
+    text-align: center;
+    margin-top: 20px;
+}
+.tarmoq {
+    display: flex;
+    margin-left: 490px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.twitter,.aylana,.facebook,.code,.dog,.instagram {
+    margin-left: 20px;
+}
